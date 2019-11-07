@@ -1,2 +1,2 @@
 # django-modelform-table
-This module enable to transform a modelformset into handsontable
+This module enable to transform a modelformset factory into handsontable
