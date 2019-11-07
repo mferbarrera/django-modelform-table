@@ -1,2 +1,2 @@
 # django-modelform-table
-Adaptation modelformset in handsontable
+This module enable to transform a modelformset into handsontable
